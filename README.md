@@ -31,6 +31,8 @@ Search suggestions for Spree based on Redis.
 
 5. You will need running Redis
 
+6. Be sure to index all current products before usage
+
 ## Examples
 
 1. Index all current products (rails c)
