@@ -7,7 +7,7 @@ Search suggestions for Spree based on Redis.
 
 1. Add this extension to your Gemfile with this line:
   ```ruby
-  gem 'spree_search_suggestions', github: 'https://github.com/SValkanov/spree_search_suggestions', branch: '3-1-stable'
+  gem 'spree_search_suggestions', github: 'SValkanov/spree_search_suggestions', branch: '3-1-stable'
   ```
 
 2. Install the gem using Bundler:
