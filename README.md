@@ -1,7 +1,7 @@
-SpreeSearchSuggestions
+Spree Search Suggestions
 ======================
 
-Search suggestions for Spree based on Redis.
+Spree gem - Search suggestions based on Redis.
 
 ## Installation
 
